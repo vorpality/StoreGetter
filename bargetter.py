@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-API_KEY = 'AIzaSyBIWDBPOY6YBYOaIec5U9qpGfJ3rE1bScI'
+API_KEY = ''
 
 
 def get_bars(location):
